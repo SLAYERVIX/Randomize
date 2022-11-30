@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Randomize</string>
+    <string name="random_number_not_generated_yet">Random number not generated yet</string>
+    <string name="generate">Generate</string>
+</resources>
